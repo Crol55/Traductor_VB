@@ -1,0 +1,6 @@
+1) Ejecutar el programa Traductor_VB_JAVA
+2) copiar cualquier archivo(1,2,3)
+3) pulsar el boton traducir y se mostrara al lado izuierdo la traduccion
+   y compilara en javac el archivo
+4) ejecutar desde consola el archivo.class 
+5) el programa debe estar funcionando en consola

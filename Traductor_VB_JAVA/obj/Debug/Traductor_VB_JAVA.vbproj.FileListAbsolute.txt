@@ -1,0 +1,11 @@
+c:\users\carlo\onedrive\documentos\visual studio 2015\Projects\Traductor_VB_JAVA\Traductor_VB_JAVA\bin\Debug\Traductor_VB_JAVA.exe.config
+c:\users\carlo\onedrive\documentos\visual studio 2015\Projects\Traductor_VB_JAVA\Traductor_VB_JAVA\bin\Debug\Traductor_VB_JAVA.exe
+c:\users\carlo\onedrive\documentos\visual studio 2015\Projects\Traductor_VB_JAVA\Traductor_VB_JAVA\bin\Debug\Traductor_VB_JAVA.pdb
+c:\users\carlo\onedrive\documentos\visual studio 2015\Projects\Traductor_VB_JAVA\Traductor_VB_JAVA\bin\Debug\Traductor_VB_JAVA.xml
+c:\users\carlo\onedrive\documentos\visual studio 2015\Projects\Traductor_VB_JAVA\Traductor_VB_JAVA\obj\Debug\Traductor_VB_JAVA.vbprojResolveAssemblyReference.cache
+c:\users\carlo\onedrive\documentos\visual studio 2015\Projects\Traductor_VB_JAVA\Traductor_VB_JAVA\obj\Debug\Traductor_VB_JAVA.Form1.resources
+c:\users\carlo\onedrive\documentos\visual studio 2015\Projects\Traductor_VB_JAVA\Traductor_VB_JAVA\obj\Debug\Traductor_VB_JAVA.Resources.resources
+c:\users\carlo\onedrive\documentos\visual studio 2015\Projects\Traductor_VB_JAVA\Traductor_VB_JAVA\obj\Debug\Traductor_VB_JAVA.vbproj.GenerateResource.Cache
+c:\users\carlo\onedrive\documentos\visual studio 2015\Projects\Traductor_VB_JAVA\Traductor_VB_JAVA\obj\Debug\Traductor_VB_JAVA.exe
+c:\users\carlo\onedrive\documentos\visual studio 2015\Projects\Traductor_VB_JAVA\Traductor_VB_JAVA\obj\Debug\Traductor_VB_JAVA.xml
+c:\users\carlo\onedrive\documentos\visual studio 2015\Projects\Traductor_VB_JAVA\Traductor_VB_JAVA\obj\Debug\Traductor_VB_JAVA.pdb
